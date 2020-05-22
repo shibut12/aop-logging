@@ -6,4 +6,8 @@
     <RootNamespace>aopLogging</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="postsharp" Version="6.6.7" />
+  </ItemGroup>
+
 </Project>
